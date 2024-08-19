@@ -1,0 +1,42 @@
+{
+  "tabs": {
+    "home": "Home",
+    "books": "Books",
+    "settings": "Settings"
+  },
+  "canon": {
+    "old_testament": "Old Testament",
+    "new_testament": "New Testament",
+    "apocrypha": "Apocrypha"
+  },
+  "footnotes": "Footnotes",
+  "language": "Language",
+  "preferences": "Preferences",
+  "theme": "Theme",
+  "fontSize": "Font Size",
+  "colorScheme": {
+    "system": "System",
+    "light": "Light",
+    "lightMediumContrast": "Light Medium Contrast",
+    "lightHighContrast": "Light High Contrast",
+    "dark": "Dark",
+    "darkMediumContrast": "Dark Medium Contrast",
+    "darkHighContrast": "Dark High Contrast"
+  },
+  "fontScale": {
+    "small": "Small",
+    "medium": "Medium",
+    "large": "Large"
+  },
+  "oops": "Oops!",
+  "notExist": "{{name}} doesn't exist.",
+  "page": "Page",
+  "goTo": "Go to",
+  "data": "Data",
+  "reload": "Reload",
+  "error": {
+    "404": "{{name, uppercase}} not found",
+    "500": "Server error",
+    "unspecific": "Something went wrong"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "tabs": {
+    "home": "Trang chủ",
+    "books": "Sách kinh",
+    "settings": "Cài đặt"
+  },
+  "canon": {
+    "old_testament": "Cựu Ước",
+    "new_testament": "Tân Ước",
+    "apocrypha": "Sách khác"
+  },
+  "footnotes": "Chú thích",
+  "language": "Ngôn ngữ",
+  "preferences": "Tuỳ chọn",
+  "theme": "Chủ đề",
+  "fontSize": "Cỡ chữ",
+  "colorScheme": {
+    "system": "Hệ thống",
+    "light": "Sáng",
+    "lightMediumContrast": "Sáng Tương Phản Vừa",
+    "lightHighContrast": "Sáng Tương Phản Cao",
+    "dark": "Tối",
+    "darkMediumContrast": "Tối Tương Phản Vừa",
+    "darkHighContrast": "Tối Tương Phản Cao"
+  },
+  "fontScale": {
+    "small": "Nhỏ",
+    "medium": "Vừa",
+    "large": "Lớn"
+  },
+  "oops": "Ối!",
+  "notExist": "{{name}} này không tồn tại.",
+  "page": "Trang",
+  "goTo": "Đi đến",
+  "data": "Dữ liệu",
+  "reload": "Tải lại",
+  "error": {
+    "404": "Không tìm thấy {{name, lowercase}}",
+    "500": "Lỗi máy chủ",
+    "unspecific": "Đã xảy ra lỗi"
+  }
+}
