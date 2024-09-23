@@ -1,0 +1,11 @@
+{
+  "error": {
+    "pageNotFound": "Page not found",
+    "dataNotFound": "Data not found"
+  },
+  "errorCode": {
+    "404": "Not found",
+    "500": "Server error",
+    "unspecific": "Something went wrong"
+  }
+}

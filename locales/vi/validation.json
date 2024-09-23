@@ -1,0 +1,11 @@
+{
+  "error": {
+    "pageNotFound": "Không tìm thấy trang",
+    "dataNotFound": "Không tìm thấy dữ liệu"
+  },
+  "errorCode": {
+    "404": "Không tìm thấy",
+    "500": "Lỗi máy chủ",
+    "unspecific": "Đã xảy ra lỗi"
+  }
+}
