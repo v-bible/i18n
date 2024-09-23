@@ -10,6 +10,10 @@
     "https://cdn.jsdelivr.net/npm/@inlang/plugin-i18next@latest/dist/index.js"
   ],
   "plugin.inlang.i18next": {
-    "pathPattern": "./locales/{languageTag}/translation.json"
+    "pathPattern": {
+      "common": "./locales/{languageTag}/common.json",
+      "glossary": "./locales/{languageTag}/glossary.json",
+      "validation": "./locales/{languageTag}/validation.json"
+    }
   }
 }

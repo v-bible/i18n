@@ -4,11 +4,6 @@
     "books": "Books",
     "settings": "Settings"
   },
-  "canon": {
-    "old_testament": "Old Testament",
-    "new_testament": "New Testament",
-    "apocrypha": "Apocrypha"
-  },
   "footnotes": "Footnotes",
   "language": "Language",
   "preferences": "Preferences",
@@ -23,20 +18,13 @@
     "darkMediumContrast": "Dark Medium Contrast",
     "darkHighContrast": "Dark High Contrast"
   },
-  "fontScale": {
+  "scale": {
     "small": "Small",
     "medium": "Medium",
     "large": "Large"
   },
-  "oops": "Oops!",
-  "notExist": "{{name}} doesn't exist.",
-  "page": "Page",
-  "goTo": "Go to",
-  "data": "Data",
-  "reload": "Reload",
-  "error": {
-    "404": "{{name, uppercase}} not found",
-    "500": "Server error",
-    "unspecific": "Something went wrong"
+  "action": {
+    "goTo": "Go to",
+    "reload": "Reload"
   }
 }

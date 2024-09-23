@@ -1,0 +1,30 @@
+{
+  "tabs": {
+    "home": "Trang chủ",
+    "books": "Sách kinh",
+    "settings": "Cài đặt"
+  },
+  "footnotes": "Chú thích",
+  "language": "Ngôn ngữ",
+  "preferences": "Tuỳ chọn",
+  "theme": "Chủ đề",
+  "fontSize": "Cỡ chữ",
+  "colorScheme": {
+    "system": "Hệ thống",
+    "light": "Sáng",
+    "lightMediumContrast": "Sáng Tương Phản Vừa",
+    "lightHighContrast": "Sáng Tương Phản Cao",
+    "dark": "Tối",
+    "darkMediumContrast": "Tối Tương Phản Vừa",
+    "darkHighContrast": "Tối Tương Phản Cao"
+  },
+  "scale": {
+    "small": "Nhỏ",
+    "medium": "Vừa",
+    "large": "Lớn"
+  },
+  "action": {
+    "goTo": "Đi đến",
+    "reload": "Tải lại"
+  }
+}
