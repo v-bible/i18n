@@ -60,7 +60,6 @@ Following [i18next principles](https://www.i18next.com/principles/translation-re
 
 - **`common.json`**: Frequently used words, such as "Confirm" and "Cancel" on buttons.
 - **`glossary.json`**: Key terms that should remain consistent across the app.
-- **`translation.json`**: Main translation file for the app.
 - **`validation.json`**: Contains validation messages (e.g., "Email address not valid").
 
 ### Translation Tools

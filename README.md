@@ -139,11 +139,13 @@ pnpm lunaria:preview
 
 Contributions are always welcome!
 
+Please read the [contribution guidelines](./CONTRIBUTING.md).
+
 <!-- Code of Conduct -->
 
 ### :scroll: Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/v-bible/i18n/blob/main/CODE_OF_CONDUCT.md).
+Please read the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 <!-- License -->
 
