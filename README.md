@@ -23,7 +23,7 @@
   <a href="https://github.com/v-bible/i18n/issues/">
     <img src="https://img.shields.io/github/issues/v-bible/i18n" alt="open issues" />
   </a>
-  <a href="https://github.com/v-bible/i18n/blob/main/LICENSE">
+  <a href="https://github.com/v-bible/i18n/blob/main/LICENSE.md">
     <img src="https://img.shields.io/github/license/v-bible/i18n.svg" alt="license" />
   </a>
 </p>
