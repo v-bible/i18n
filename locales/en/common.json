@@ -19,6 +19,7 @@
     "darkHighContrast": "Dark High Contrast"
   },
   "scale": {
+    "system": "System",
     "small": "Small",
     "medium": "Medium",
     "large": "Large"
